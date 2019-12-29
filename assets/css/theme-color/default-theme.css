@@ -53,5 +53,6 @@ Author URI : http://www.markups.io/
 
 
 .mu-pro-bar .proggress {
-	background-color: #339999 !important;
+	background-color: #000000 !important;
 }
+body {background-color: black;}
